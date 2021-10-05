@@ -1,8 +1,10 @@
 <h1>Испытание: галерея путешествий. Оформление</h1>
 
-<p>Итак, что нужно сделать в этом испытании:</p>
+<p style="font-size: 32px; color: red;">Код страницы <a href="https://jsfiddle.net/GreatRaksin/qefdwb6x/4/" target="blank">здесь</a>.</p>
 
-<ul>
+<p style="font-size: 18px;">Итак, что нужно сделать в этом испытании:</p>
+
+<ul style="font-size: 18px;">
 <li>добавить одному из элементов на странице свойство, меняющее цвет фона <code>background-color: #333333;</code></li>
 <li>сменить у одного из элементов цвет текста на <code>color: white;</code></li>
 <li>подобрать правильное значение ширины width у абзаца (значение кратно <code>10</code> и меньше <code>500px</code>);</li>
