@@ -1,0 +1,37 @@
+* {  /* reset CSS, сброс дефолтных стилей */
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    box-sizing: border-box;
+}
+/* Выставил свои дефолтные значения
+ для ВСЕХ элементов на странице */
+.wrapper {
+    width: 100%;
+    padding: 0.5em 2em;
+    /* em - относительно родительского размера */
+}
+
+.card {
+    width: 30%;  /* ширина в общем 30% */
+    max-width: 490px;  /* но максимальная ширина - 490пикс */
+    height: 15em;
+    border: 0.25em solid #636363;
+    padding: 1em;
+    border-radius: 1em;  /* скругление углов */
+}
+
+.art {
+    display: block;  /* теперь картинка - блочный элемент */
+    width: 50%;  /* ширина в общем - 50% */
+    max-width: 220px;  /* никогда не больше 220пикс */
+    float: left;  /* обтекание справа */
+    margin-right: 1em;
+}
+
+.text {
+    text-align: center;  /* располагаю текст по середине */
+    font-size: 1.5em;  /* увеличиваю размер шрифта */
+}
+
+

@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fce7f0df-c01f-40c0-a43c-bb3f5c9f9d72" name="Changes" comment="Adding second lessonð">
-      <change afterPath="$PROJECT_DIR$/02_lesson_2809/00_box_model.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_lesson_2809/01_block_model.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_lesson_2809/style.css" afterDir="false" />
+    <list default="true" id="fce7f0df-c01f-40c0-a43c-bb3f5c9f9d72" name="Changes" comment="Adding box model">
+      <change afterPath="$PROJECT_DIR$/03_lesson_0510/00_box_model.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_lesson_0510/01_emphasis_elements.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_lesson_0510/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/02_lesson_2809" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/03_lesson_0510" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -51,6 +51,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/03_lesson_0510" />
       <recent name="$PROJECT_DIR$/02_lesson_2809" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -68,7 +69,8 @@
       <workItem from="1631602121389" duration="1921000" />
       <workItem from="1632204761770" duration="3198000" />
       <workItem from="1632301924862" duration="13000" />
-      <workItem from="1632808164654" duration="5066000" />
+      <workItem from="1632808164654" duration="5876000" />
+      <workItem from="1633414405103" duration="3545000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1631602416637</created>
@@ -91,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632209095007</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adding box model">
+      <created>1632813905050</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1632813905050</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +122,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Adding first lesson" />
     <MESSAGE value="Adding second lessonð" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding second lessonð" />
+    <MESSAGE value="Adding box model" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding box model" />
   </component>
 </project>
