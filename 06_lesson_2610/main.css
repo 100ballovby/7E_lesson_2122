@@ -1,0 +1,34 @@
+.wrapper {
+    max-width: 550px;
+    margin: 0 auto;
+}
+
+.site-header,
+.site-footer {
+    padding: 0.7em;
+    background: #ecf0f1;
+}
+
+.sidebar {
+    min-height: 150px;
+    padding: 0.7em;
+    color: white;  /* цвет текста */
+    background: #86e1b5;
+
+    float: left;
+    width: 35%;
+}
+
+.blog {
+    min-height: 150px;
+    padding: 0.7em;
+    color: white;  /* цвет текста */
+    background: #3498db;
+
+    float: right;
+    width: 56%;
+}
+
+.site-footer {
+    clear: both;
+}

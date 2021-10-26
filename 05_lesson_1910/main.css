@@ -1,0 +1,64 @@
+body {
+    text-align: center;
+}
+
+.container {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 2px dashed #cccccc;
+}
+
+.column1 {
+    float: left;
+    width: 120px;
+    min-height: 50px; /* высота никогда не будет меньше 50 пикселей */
+}
+
+.column2 {
+    float: right;
+    width: 120px;
+    min-height: 50px; /* высота никогда не будет меньше 50 пикселей */
+}
+
+.wrap {
+    width: 300px;
+    margin: 1em auto;
+}
+
+.column3 {
+    clear: both;  /* отменить флоаты */
+    width: 150px;
+    min-height: 50px;
+    margin: 10px auto;
+
+    border-color: red;
+}
+
+.column4 {
+    float: left;
+    width: 65px;
+    min-height: 50px;
+    margin-right: 9px;
+
+    border-color: blue;
+}
+
+.column5 {
+    float: left;
+    width: 80px;
+    min-height: 50px;
+
+    border-color: red;
+}
+
+.column6 {
+    float: right;
+    width: 65px;
+    min-height: 50px;
+
+    border-color: blue;
+}
+
+.clearfix {
+    clear: both;
+}
