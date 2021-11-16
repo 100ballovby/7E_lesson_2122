@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fce7f0df-c01f-40c0-a43c-bb3f5c9f9d72" name="Changes" comment="Adding nets">
-      <change afterPath="$PROJECT_DIR$/07_lesson_0911/00_hello_js.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_lesson_0911/index.html" afterDir="false" />
+    <list default="true" id="fce7f0df-c01f-40c0-a43c-bb3f5c9f9d72" name="Changes" comment="Adding hello js lesson">
+      <change afterPath="$PROJECT_DIR$/08_lesson_1611/00_приведение_типов.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_lesson_1611/01_user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_lesson_1611/02_операторы_сравнения.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_lesson_1611/user.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +20,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -60,12 +62,20 @@
       <recent name="$PROJECT_DIR$/05_lesson_1910" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.02_операторы_сравнения.js">
+    <configuration name="00_приведение_типов.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/08_lesson_1611/00_приведение_типов.js" working-dir="$PROJECT_DIR$/08_lesson_1611">
+      <method v="2" />
+    </configuration>
     <configuration name="00_hello_js.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/07_lesson_0911/00_hello_js.js" working-dir="$PROJECT_DIR$/07_lesson_0911">
+      <method v="2" />
+    </configuration>
+    <configuration name="02_операторы_сравнения.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/08_lesson_1611/02_операторы_сравнения.js" working-dir="$PROJECT_DIR$/08_lesson_1611">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.02_операторы_сравнения.js" />
+        <item itemvalue="Node.js.00_приведение_типов.js" />
         <item itemvalue="Node.js.00_hello_js.js" />
       </list>
     </recent_temporary>
@@ -90,7 +100,9 @@
       <workItem from="1634018131380" duration="5431000" />
       <workItem from="1634974553327" duration="191000" />
       <workItem from="1635227505656" duration="3261000" />
-      <workItem from="1636441049798" duration="1317000" />
+      <workItem from="1636441049798" duration="1812000" />
+      <workItem from="1637042044568" duration="4044000" />
+      <workItem from="1637046757762" duration="654000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1631602416637</created>
@@ -169,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635230405584</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Adding hello js lesson">
+      <created>1636442577121</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1636442577121</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +217,7 @@
     <MESSAGE value="Adding Image gallery template" />
     <MESSAGE value="Adding image gallery stylization" />
     <MESSAGE value="Adding nets" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding nets" />
+    <MESSAGE value="Adding hello js lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding hello js lesson" />
   </component>
 </project>
