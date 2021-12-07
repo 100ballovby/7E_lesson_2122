@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fce7f0df-c01f-40c0-a43c-bb3f5c9f9d72" name="Changes" comment="Adding logic operations">
-      <change afterPath="$PROJECT_DIR$/10_lesson_3011/00_date.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_lesson_3011/00_date.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_lesson_3011/01_while_loop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_lesson_3011/02_do_while.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_lesson_3011/03_for_loop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_lesson_3011/04_thouthand_minus_seven.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_lesson_3011/05_task_!.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_lesson_3011/05_task_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_lesson_3011/hw/00_hw.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_lesson_3011/hw/hw.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fce7f0df-c01f-40c0-a43c-bb3f5c9f9d72" name="Changes" comment="Adding loops" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,7 +122,7 @@
       <workItem from="1637042044568" duration="4044000" />
       <workItem from="1637046757762" duration="1251000" />
       <workItem from="1637646961927" duration="2784000" />
-      <workItem from="1638251654644" duration="5016000" />
+      <workItem from="1638251654644" duration="5055000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1631602416637</created>
@@ -234,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637652167840</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Adding loops">
+      <created>1638256988063</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1638256988063</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,6 +260,7 @@
     <MESSAGE value="Adding hello js lesson" />
     <MESSAGE value="Adding JS lesson 2" />
     <MESSAGE value="Adding logic operations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding logic operations" />
+    <MESSAGE value="Adding loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding loops" />
   </component>
 </project>
