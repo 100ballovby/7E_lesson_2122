@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fce7f0df-c01f-40c0-a43c-bb3f5c9f9d72" name="Changes" comment="Adding lab tasks">
-      <change afterPath="$PROJECT_DIR$/12_lesson_1412/00_even_numbers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_lesson_1412/01_dividers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_lesson_1412/task_number/v1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_lesson_1412/task_number/v2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_lesson_1412/task_number/v3.js" afterDir="false" />
+    <list default="true" id="fce7f0df-c01f-40c0-a43c-bb3f5c9f9d72" name="Changes" comment="Adding loops practice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +126,7 @@
       <workItem from="1637646961927" duration="2784000" />
       <workItem from="1638251654644" duration="5055000" />
       <workItem from="1638857337520" duration="692000" />
-      <workItem from="1639464087964" duration="2332000" />
+      <workItem from="1639464087964" duration="3233000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1631602416637</created>
@@ -245,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638857408694</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Adding loops practice">
+      <created>1639466795223</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1639466795223</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,6 +280,7 @@
     <MESSAGE value="Adding logic operations" />
     <MESSAGE value="Adding loops" />
     <MESSAGE value="Adding lab tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding lab tasks" />
+    <MESSAGE value="Adding loops practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding loops practice" />
   </component>
 </project>
