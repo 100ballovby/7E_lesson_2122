@@ -1,0 +1,7 @@
+.alt {
+    color: #86e1b5;
+    font-size: 22px;
+    font-weight: bold;
+    text-decoration: line-through;
+    /* ^ зачеркнутый текст */
+}
