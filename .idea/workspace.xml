@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fce7f0df-c01f-40c0-a43c-bb3f5c9f9d72" name="Changes" comment="Adding test solution">
-      <change afterPath="$PROJECT_DIR$/14_lesson_1101/00_function.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_lesson_1101/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_lesson_1101/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_lesson_1101/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="fce7f0df-c01f-40c0-a43c-bb3f5c9f9d72" name="Changes" comment="Adding JS in browser">
+      <change afterPath="$PROJECT_DIR$/функции.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +129,7 @@
       <workItem from="1639464087964" duration="3233000" />
       <workItem from="1640070678500" duration="554000" />
       <workItem from="1640340182313" duration="8000" />
-      <workItem from="1641880072049" duration="4291000" />
+      <workItem from="1641880072049" duration="4672000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1631602416637</created>
@@ -261,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640070716649</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Adding JS in browser">
+      <created>1641885781586</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1641885781586</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -296,6 +299,7 @@
     <MESSAGE value="Adding lab tasks" />
     <MESSAGE value="Adding loops practice" />
     <MESSAGE value="Adding test solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding test solution" />
+    <MESSAGE value="Adding JS in browser" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding JS in browser" />
   </component>
 </project>
