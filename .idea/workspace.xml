@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fce7f0df-c01f-40c0-a43c-bb3f5c9f9d72" name="Changes" comment="Adding Theory">
-      <change afterPath="$PROJECT_DIR$/15_lesson_2501/00_objects.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_lesson_2501/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_lesson_2501/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_lesson_2501/script.js" afterDir="false" />
+    <list default="true" id="fce7f0df-c01f-40c0-a43c-bb3f5c9f9d72" name="Changes" comment="Adding Objects lesson ✅">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15_lesson_2501/datadump.json" beforeDir="false" afterPath="$PROJECT_DIR$/15_lesson_2501/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15_lesson_2501/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/15_lesson_2501/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15_lesson_2501/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/15_lesson_2501/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +55,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/15_lesson_2501" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -67,11 +66,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/15_lesson_2501" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/09_lesson_2311" />
       <recent name="$PROJECT_DIR$/04_lesson_1210" />
       <recent name="$PROJECT_DIR$/03_lesson_0510" />
-      <recent name="$PROJECT_DIR$/02_lesson_2809" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/14_lesson_1101/теория" />
@@ -79,7 +78,7 @@
       <recent name="$PROJECT_DIR$/05_lesson_1910" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.00_objects.js">
+  <component name="RunManager" selected="Node.js.script.js">
     <configuration name="00_even_numbers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/12_lesson_1412/00_even_numbers.js" working-dir="$PROJECT_DIR$/12_lesson_1412">
       <method v="2" />
     </configuration>
@@ -92,16 +91,16 @@
     <configuration name="01_dividers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/12_lesson_1412/01_dividers.js" working-dir="$PROJECT_DIR$/12_lesson_1412">
       <method v="2" />
     </configuration>
-    <configuration name="v3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/12_lesson_1412/task_number/v3.js" working-dir="$PROJECT_DIR$/12_lesson_1412/task_number">
+    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/15_lesson_2501/script.js" working-dir="$PROJECT_DIR$/15_lesson_2501">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.script.js" />
         <item itemvalue="Node.js.00_objects.js" />
         <item itemvalue="Node.js.00_function.js" />
         <item itemvalue="Node.js.01_dividers.js" />
         <item itemvalue="Node.js.00_even_numbers.js" />
-        <item itemvalue="Node.js.v3.js" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +135,7 @@
       <workItem from="1640340182313" duration="8000" />
       <workItem from="1641880072049" duration="5060000" />
       <workItem from="1642238484470" duration="384000" />
-      <workItem from="1643089640142" duration="962000" />
+      <workItem from="1643089640142" duration="5379000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1631602416637</created>
@@ -285,7 +284,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642238509092</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Adding Objects lesson ✅">
+      <created>1643090817893</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1643090817893</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -322,6 +328,7 @@
     <MESSAGE value="Adding test solution" />
     <MESSAGE value="Adding JS in browser" />
     <MESSAGE value="Adding Theory" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Theory" />
+    <MESSAGE value="Adding Objects lesson ✅" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Objects lesson ✅" />
   </component>
 </project>
