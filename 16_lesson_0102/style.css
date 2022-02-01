@@ -1,0 +1,19 @@
+.palette {
+    display: flex;
+    flex-direction: row; /* все элементы расположить в строку */
+    justify-content: space-around;  /* отступы между flex-элементами */
+    flex-wrap: wrap;  /* если элементы не помещаются в строку, они будут переноситься на новую */
+
+    margin-bottom: 0.5em;
+}
+
+.palette-block {
+    border-radius: 1em;
+    width: 20%;
+    max-width: 150px;
+    height: 150px;
+    padding: 0.5em;
+
+    margin-bottom: 0.5em;
+    border: 0.5em solid black;
+}

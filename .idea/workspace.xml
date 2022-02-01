@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fce7f0df-c01f-40c0-a43c-bb3f5c9f9d72" name="Changes" comment="Adding Objects lesson ✅">
+      <change afterPath="$PROJECT_DIR$/16_lesson_0102/00_js_objects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_lesson_0102/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_lesson_0102/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_lesson_0102/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15_lesson_2501/datadump.json" beforeDir="false" afterPath="$PROJECT_DIR$/15_lesson_2501/data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15_lesson_2501/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/15_lesson_2501/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15_lesson_2501/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/15_lesson_2501/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,11 +79,11 @@
       <recent name="$PROJECT_DIR$/05_lesson_1910" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.script.js">
-    <configuration name="00_even_numbers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/12_lesson_1412/00_even_numbers.js" working-dir="$PROJECT_DIR$/12_lesson_1412">
+  <component name="RunManager" selected="Node.js.00_js_objects.js">
+    <configuration name="00_function.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/14_lesson_1101/00_function.js" working-dir="$PROJECT_DIR$/14_lesson_1101">
       <method v="2" />
     </configuration>
-    <configuration name="00_function.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/14_lesson_1101/00_function.js" working-dir="$PROJECT_DIR$/14_lesson_1101">
+    <configuration name="00_js_objects.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/16_lesson_0102/00_js_objects.js" working-dir="$PROJECT_DIR$/16_lesson_0102">
       <method v="2" />
     </configuration>
     <configuration name="00_objects.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/15_lesson_2501/00_objects.js" working-dir="$PROJECT_DIR$/15_lesson_2501">
@@ -96,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.00_js_objects.js" />
         <item itemvalue="Node.js.script.js" />
         <item itemvalue="Node.js.00_objects.js" />
         <item itemvalue="Node.js.00_function.js" />
         <item itemvalue="Node.js.01_dividers.js" />
-        <item itemvalue="Node.js.00_even_numbers.js" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +136,8 @@
       <workItem from="1640340182313" duration="8000" />
       <workItem from="1641880072049" duration="5060000" />
       <workItem from="1642238484470" duration="384000" />
-      <workItem from="1643089640142" duration="5379000" />
+      <workItem from="1643089640142" duration="5397000" />
+      <workItem from="1643694615963" duration="4502000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1631602416637</created>
@@ -291,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643090817893</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Adding Objects lesson ✅">
+      <created>1643095599563</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1643095599563</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
