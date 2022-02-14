@@ -1,0 +1,16 @@
+.peoples {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.art-card {
+    width: 20%;
+    padding: 1em;
+    border: 0.5em solid #a0c0c6;
+    margin-bottom: 0.5em;
+    border-radius: 2em;
+}
+
+
