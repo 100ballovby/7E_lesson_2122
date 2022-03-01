@@ -1,0 +1,9 @@
+table {
+    border-collapse: collapse;
+    /* убирает промежутки между ячейками таблицы */
+}
+
+th, td {
+    padding: 1em;
+    border-bottom: 3px solid #ffc350;
+}
