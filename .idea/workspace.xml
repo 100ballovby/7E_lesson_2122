@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fce7f0df-c01f-40c0-a43c-bb3f5c9f9d72" name="Changes" comment="Adding JS attributes">
-      <change afterPath="$PROJECT_DIR$/18_lesson_0103/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18_lesson_0103/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18_lesson_0103/script.js" afterDir="false" />
+    <list default="true" id="fce7f0df-c01f-40c0-a43c-bb3f5c9f9d72" name="Changes" comment="Adding tables lesson">
+      <change afterPath="$PROJECT_DIR$/19_lesson_1503/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_lesson_1503/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_lesson_1503/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -142,7 +142,8 @@
       <workItem from="1644859780972" duration="639000" />
       <workItem from="1645510573518" duration="375000" />
       <workItem from="1645511003394" duration="2952000" />
-      <workItem from="1646114122302" duration="5068000" />
+      <workItem from="1646114122302" duration="5700000" />
+      <workItem from="1647326640100" duration="2192000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1631602416637</created>
@@ -333,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645513932312</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Adding tables lesson">
+      <created>1646119408720</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1646119408721</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -374,6 +382,7 @@
     <MESSAGE value="Adding objects lesson2 " />
     <MESSAGE value="Adding objects and arrays theory" />
     <MESSAGE value="Adding JS attributes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding JS attributes" />
+    <MESSAGE value="Adding tables lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding tables lesson" />
   </component>
 </project>
