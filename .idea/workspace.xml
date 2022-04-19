@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fce7f0df-c01f-40c0-a43c-bb3f5c9f9d72" name="Changes" comment="Adding rates table lesson">
-      <change afterPath="$PROJECT_DIR$/20_lesson_0504/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20_lesson_0504/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20_lesson_0504/style.css" afterDir="false" />
+    <list default="true" id="fce7f0df-c01f-40c0-a43c-bb3f5c9f9d72" name="Changes" comment="Adding forms">
+      <change afterPath="$PROJECT_DIR$/21_lesson_1204/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_lesson_1204/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,9 +17,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
-        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -144,7 +143,8 @@
       <workItem from="1645511003394" duration="2952000" />
       <workItem from="1646114122302" duration="5700000" />
       <workItem from="1647326640100" duration="2788000" />
-      <workItem from="1649137734937" duration="5341000" />
+      <workItem from="1649137734937" duration="5985000" />
+      <workItem from="1649742660056" duration="2981000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1631602416637</created>
@@ -349,7 +349,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647328851314</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Adding forms">
+      <created>1649143449243</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1649143449244</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -367,7 +374,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial commit" />
     <MESSAGE value="Adding first lesson" />
     <MESSAGE value="Adding second lessonð" />
     <MESSAGE value="Adding box model" />
@@ -392,6 +398,7 @@
     <MESSAGE value="Adding JS attributes" />
     <MESSAGE value="Adding tables lesson" />
     <MESSAGE value="Adding rates table lesson" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding rates table lesson" />
+    <MESSAGE value="Adding forms" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding forms" />
   </component>
 </project>
