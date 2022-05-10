@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fce7f0df-c01f-40c0-a43c-bb3f5c9f9d72" name="Changes" comment="Adding forms">
-      <change afterPath="$PROJECT_DIR$/21_lesson_1204/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21_lesson_1204/main.css" afterDir="false" />
+    <list default="true" id="fce7f0df-c01f-40c0-a43c-bb3f5c9f9d72" name="Changes" comment="Adding forms 2">
+      <change afterPath="$PROJECT_DIR$/22_lesson_1005/Eye DIsabled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22_lesson_1005/Eye.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22_lesson_1005/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22_lesson_1005/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22_lesson_1005/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,9 +20,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -49,20 +52,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Теория" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Теория" />
@@ -72,6 +71,8 @@
       <recent name="$PROJECT_DIR$/04_lesson_1210" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/22_lesson_1005" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/14_lesson_1101/теория" />
       <recent name="$PROJECT_DIR$/10_lesson_3011/hw" />
       <recent name="$PROJECT_DIR$/05_lesson_1910" />
@@ -145,6 +146,8 @@
       <workItem from="1647326640100" duration="2788000" />
       <workItem from="1649137734937" duration="5985000" />
       <workItem from="1649742660056" duration="2981000" />
+      <workItem from="1650347239352" duration="1286000" />
+      <workItem from="1652161701877" duration="5094000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1631602416637</created>
@@ -356,7 +359,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649143449244</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Adding forms 2">
+      <created>1650347272428</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1650347272428</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -374,7 +384,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adding first lesson" />
     <MESSAGE value="Adding second lessonð" />
     <MESSAGE value="Adding box model" />
     <MESSAGE value="Adding homework" />
@@ -399,6 +408,7 @@
     <MESSAGE value="Adding tables lesson" />
     <MESSAGE value="Adding rates table lesson" />
     <MESSAGE value="Adding forms" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding forms" />
+    <MESSAGE value="Adding forms 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding forms 2" />
   </component>
 </project>
