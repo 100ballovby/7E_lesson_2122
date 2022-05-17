@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fce7f0df-c01f-40c0-a43c-bb3f5c9f9d72" name="Changes" comment="Adding forms 2">
-      <change afterPath="$PROJECT_DIR$/22_lesson_1005/Eye DIsabled.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22_lesson_1005/Eye.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22_lesson_1005/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22_lesson_1005/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22_lesson_1005/script.js" afterDir="false" />
+    <list default="true" id="fce7f0df-c01f-40c0-a43c-bb3f5c9f9d72" name="Changes" comment="Adding forms js">
+      <change afterPath="$PROJECT_DIR$/23_lesson_1704/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23_lesson_1704/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -52,16 +49,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "list.type.of.created.stylesheet": "CSS",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Теория" />
@@ -78,7 +75,7 @@
       <recent name="$PROJECT_DIR$/05_lesson_1910" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.00_js_objects.js">
+  <component name="RunManager" selected="Node.js.script.js (1)">
     <configuration name="00_function.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/14_lesson_1101/00_function.js" working-dir="$PROJECT_DIR$/14_lesson_1101">
       <method v="2" />
     </configuration>
@@ -88,7 +85,7 @@
     <configuration name="00_objects.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/15_lesson_2501/00_objects.js" working-dir="$PROJECT_DIR$/15_lesson_2501">
       <method v="2" />
     </configuration>
-    <configuration name="01_dividers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/12_lesson_1412/01_dividers.js" working-dir="$PROJECT_DIR$/12_lesson_1412">
+    <configuration name="script.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/23_lesson_1704/script.js" working-dir="$PROJECT_DIR$/23_lesson_1704">
       <method v="2" />
     </configuration>
     <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/15_lesson_2501/script.js" working-dir="$PROJECT_DIR$/15_lesson_2501">
@@ -96,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.script.js (1)" />
         <item itemvalue="Node.js.00_js_objects.js" />
         <item itemvalue="Node.js.script.js" />
         <item itemvalue="Node.js.00_objects.js" />
         <item itemvalue="Node.js.00_function.js" />
-        <item itemvalue="Node.js.01_dividers.js" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +144,8 @@
       <workItem from="1649137734937" duration="5985000" />
       <workItem from="1649742660056" duration="2981000" />
       <workItem from="1650347239352" duration="1286000" />
-      <workItem from="1652161701877" duration="5094000" />
+      <workItem from="1652161701877" duration="5176000" />
+      <workItem from="1652766630490" duration="2924000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1631602416637</created>
@@ -366,7 +364,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650347272428</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Adding forms js">
+      <created>1652167288358</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1652167288359</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -384,7 +389,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adding second lessonð" />
     <MESSAGE value="Adding box model" />
     <MESSAGE value="Adding homework" />
     <MESSAGE value="Adding homework solution" />
@@ -409,6 +413,7 @@
     <MESSAGE value="Adding rates table lesson" />
     <MESSAGE value="Adding forms" />
     <MESSAGE value="Adding forms 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding forms 2" />
+    <MESSAGE value="Adding forms js" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding forms js" />
   </component>
 </project>
